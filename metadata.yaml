@@ -1,0 +1,40 @@
+_repo: Half-A-Chance_14249
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Pfeifer, Herman
+    birthdate: 1874
+    deathdate: 1931
+    gutenberg_agent_id: '31534'
+    url: http://www.gutenberg.org/2009/agents/31534
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Isham, Frederic Stewart
+    aliases:
+    - Isham, Frederic S. (Frederic Stewart)
+    - Isham, F. S. (Frederic Stewart)
+    - Isham, Frederick S. (Frederick Stewart)
+    birthdate: 1866
+    deathdate: 1922
+    gutenberg_agent_id: '3515'
+    url: http://www.gutenberg.org/2009/agents/3515
+description: ''
+gutenberg_issued: '2004-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14249'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcsh 'Prisoners -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Shipwrecks -- Fiction'
+- !lcsh 'Lawyers -- Fiction'
+title: Half A Chance
+url: http://www.gutenberg.org/ebooks/14249
